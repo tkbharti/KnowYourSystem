@@ -1,6 +1,17 @@
 # KnowYourSystem
 Node js and React js based application, which show the laptop/desktop hardware details.
 
+To start the app use following command -> Go to App directory
+npm i
+npm run start
+
+To create .exe use following command
+npm i
+npm run dist
+
+
+
+
 Splash Screen
 
 <img width="298" height="296" alt="image" src="https://github.com/user-attachments/assets/3186ba6a-cc61-44e8-9b39-132ff1dd4d9d" />
