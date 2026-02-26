@@ -2,12 +2,18 @@
 Node js and React js based application, which show the laptop/desktop hardware details.
 
 To start the app use following command -> Go to App directory
+
 npm i
+
 npm run start
 
+
 To create .exe use following command
+
 npm i
+
 npm run dist
+
 
 
 
