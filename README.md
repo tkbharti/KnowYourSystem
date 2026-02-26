@@ -1,5 +1,5 @@
 # KnowYourSystem
-Node js and React js based application, which show the laptop/desktop hardware details.
+Node js and React js based desktop application which will show your Laptop/Desktop hardware details.
 
 To start the app use following command -> Go to App directory
 
